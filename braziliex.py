@@ -106,7 +106,7 @@ while True:
     #print ('OMG = BRL',braziliexliveomg)
     #print ('ETC = BRL',braziliexliveetc)
     #print ('GNT = BRL',braziliexlivegnt)
-    time.sleep(15)
+    time.sleep(60)
 
 
 

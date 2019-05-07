@@ -23,4 +23,4 @@ while True:
 
     print ('ETH = U$',krakenliveeth)
     print ('LTC = U$',krakenliveltc)
-    time.sleep(5)
+    time.sleep(60)
